@@ -12,5 +12,5 @@ Este projeto consiste no desenvolvimento e refinamento de um **prompt de engenha
 2. **Engenharia de Prompt:** Tradução e enriquecimento do pedido original para o inglês, adicionando palavras-chave técnicas do vocabulário de fotografia e comportamento de materiais (como *top-down macro photo*, *ink pooling* e *variations in pressure*).
 3. **Ajuste de Texturas:** Inclusão de comandos específicos para simular as imperfeições naturais de uma caneta esferográfica real e sombras suaves no papel, garantindo o aspecto analógico desejado.
 
-## Resultado
+## 🚀 Resultados
 <img width="896" height="1152" alt="Resultado" src="https://github.com/user-attachments/assets/bb5347d6-3aa7-4487-a8ce-7df320578a3a" />
